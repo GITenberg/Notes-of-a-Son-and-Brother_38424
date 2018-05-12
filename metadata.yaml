@@ -1,0 +1,33 @@
+_repo: Notes-of-a-Son-and-Brother_38424
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38424-h/images/cover.jpg
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: The second volume of Henry James's autobiography, Notes of a Son and
+  Brother, was completed just a few months before his death. Here, James covers the
+  time of the Civil War, discusses his early adulthood, his first efforts at writing
+  fiction, and the death of his beloved cousin, Minny Temple. A moving and insightful
+  book.
+gutenberg_issued: '2011-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38424'
+  lccn: '14005060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'James, William, 1842-1910'
+- !lcsh 'James, Henry, 1811-1882'
+title: Notes of a Son and Brother
+url: http://www.gutenberg.org/ebooks/38424
